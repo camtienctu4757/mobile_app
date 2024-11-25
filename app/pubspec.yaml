@@ -1,0 +1,10 @@
+name: root_pubspec
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dev_dependencies:
+  melos: 4.1.0
+dependencies:
+  fluttertoast: ^8.2.8
+  google_maps_flutter: ^2.6.1
